@@ -6,7 +6,7 @@ After completing it, I converted it into **Typescript**, added some extras and m
 
 Game preview:
 
-![alt text](https://github.com/JorgeFresco/Tic-Tac-Toe/blob/main/Game.PNG?raw=true)
+![alt text](https://github.com/JorgeFresco/Tic-Tac-Toe/blob/gh-pages/Game.PNG?raw=true)
 
 Features:
 - Besides the normal features, it is possible to "travel in time" to any move that has been played,
